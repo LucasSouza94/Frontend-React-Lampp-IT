@@ -1,3 +1,16 @@
+Aplicaçao web para avaliacao de cadidato Lampp-IT
+Frontend desenvolvido em React para consumir um servidor REST com um CRUD de Empresas.
+***Passos para execucao***
+- ter o node.js instalado na maquina.
+- acessa a pasta do projeto pelo cmd.
+- executar o comando.
+
+
+Lucas Vasconcelos Souza
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
